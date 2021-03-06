@@ -10,11 +10,9 @@ I used Munich Airbnb Dataset for this project. As part of the Airbnb Inside init
 ## Libraries
 I use Python3. Here are the libraries I used in my Jupyter Notebook:
 
-Numpy
-Pandas
-Sklearn
-Seaborn
-matplotlib.pyplot
-Collections
-Math
-File Descriptions
+ - Numpy
+ - Pandas
+ - Seaborn
+ - matplotlib.pyplot
+ - Collections
+ - Math
